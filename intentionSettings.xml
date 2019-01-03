@@ -1,0 +1,13 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CoffeeScript/Replace Double-Quoted String with Single-Quoted String" />
+    <ignoreAction name="CoffeeScript/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="JavaScript/Comments/Move Comment To Separate Line" />
+    <ignoreAction name="JavaScript/Comments/Replace With C-Style Comment" />
+    <ignoreAction name="JavaScript/Control Flow/Remove Braces" />
+    <ignoreAction name="JavaScript/Control Flow/Replace If With Switch" />
+    <ignoreAction name="JavaScript/Control Flow/Replace Switch With If" />
+  </component>
+</application>

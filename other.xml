@@ -1,0 +1,51 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira:8443">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe9dffadfe6df89df98df9adf9bdf92df87dff9dffd</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.11.2" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and status != Closed order by priority DESC, key ASC" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>swalther</username>
+    </JIRA>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://complex-it.xp-dev.com/svn/mbw" />
+        <option value="https://complex-it.xp-dev.com/svn/fare" />
+        <option value="https://complex-it.xp-dev.com/svn/daiber" />
+        <option value="https://complex-it.xp-dev.com/svn/clxProduct" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://complex-it.xp-dev.com/svn/mbw" />
+        <option value="https://complex-it.xp-dev.com/svn/fare" />
+        <option value="https://complex-it.xp-dev.com/svn/daiber" />
+        <option value="https://complex-it.xp-dev.com/svn/clxProduct" />
+      </list>
+    </option>
+  </component>
+</application>

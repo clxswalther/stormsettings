@@ -14,6 +14,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="24fdfe53-e8d3-4fdf-9a1a-3d238652ca3f" name="sw14" url="http://sw14">
+        <fileTransfer host="sw14" port="22" rootFolder="/www/www" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

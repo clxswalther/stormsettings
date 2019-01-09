@@ -20,6 +20,7 @@
     <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
+    <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}id" />
@@ -43,6 +44,7 @@
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <arrangement>
       <groups>
         <group>

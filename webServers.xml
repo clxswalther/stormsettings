@@ -9,7 +9,7 @@
       <webServer id="25c47edb-41e2-4a11-af5b-7456aa0b620e" name="sw16" url="http://sw16">
         <fileTransfer host="sw16" port="22" rootFolder="/cluster/www/www/www" accessType="SFTP" authAgent="true">
           <advancedOptions>
-            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" maxConnections="5" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>

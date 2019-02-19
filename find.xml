@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Complete Application" />
-    <option name="defaultScopeName" value="Complete Application" />
+    <option name="customScope" value="B2B" />
+    <option name="defaultScopeName" value="B2B" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Complete Application" />
+    <option name="SEARCH_SCOPE" value="B2B" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

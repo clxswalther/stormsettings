@@ -6,18 +6,18 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="25c47edb-41e2-4a11-af5b-7456aa0b620e" name="sw16" url="http://sw16">
-        <fileTransfer host="sw16" port="22" rootFolder="/cluster/www/www/www" accessType="SFTP" authAgent="true">
+      <webServer id="2aec8072-49e7-4530-986e-903ee9790bc5" name="sw18" url="http://sw18">
+        <fileTransfer host="sw18" port="22" rootFolder="/cluster/www/www/www" accessType="SFTP" authAgent="true">
           <advancedOptions>
-            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="24fdfe53-e8d3-4fdf-9a1a-3d238652ca3f" name="sw14" url="http://sw14">
-        <fileTransfer host="sw14" port="22" rootFolder="/www/www" accessType="SFTP" authAgent="true">
+      <webServer id="25c47edb-41e2-4a11-af5b-7456aa0b620e" name="sw16" url="http://sw16">
+        <fileTransfer host="sw16" port="22" rootFolder="/cluster/www/www/www" accessType="SFTP" authAgent="true">
           <advancedOptions>
-            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>

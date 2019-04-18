@@ -6,7 +6,7 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="2aec8072-49e7-4530-986e-903ee9790bc5" name="sw18" url="http://sw18">
+      <webServer id="2aec8072-49e7-4530-986e-903ee9790bc5" name="sw18" url="https://www.fare.de.sw18/">
         <fileTransfer host="sw18" port="22" rootFolder="/cluster/www/www/www" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />

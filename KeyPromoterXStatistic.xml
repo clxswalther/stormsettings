@@ -46,7 +46,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -86,11 +86,17 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Umschalt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Delete Changelist">
+        <Item>
+          <IdeaActionID>ChangesView.RemoveChangeList</IdeaActionID>
+          <Description>Delete Changelist</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="File Transfer">
         <Item>
           <IdeaActionID>ActivateFileTransferToolWindow</IdeaActionID>

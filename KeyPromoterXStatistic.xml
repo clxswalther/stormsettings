@@ -118,7 +118,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Strg+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

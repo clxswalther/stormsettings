@@ -86,7 +86,7 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'Strg+Alt+Umschalt+Einfg'</ShortCut>
           <Description>New Scratch File</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste without Formatting">
@@ -127,6 +127,14 @@
           <ShortCut>'Strg+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save As...">
+        <Item>
+          <IdeaActionID>SavaAs</IdeaActionID>
+          <ShortCut>'Strg+Umschalt+S'</ShortCut>
+          <Description>Save As...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

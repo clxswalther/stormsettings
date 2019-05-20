@@ -102,7 +102,7 @@
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
           <ShortCut>'Alt+Einfg' or 'Strg+N'</ShortCut>
           <Description>New Folder...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">

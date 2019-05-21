@@ -1,6 +1,6 @@
 <application>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop/files/clxProductNet" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
     <option name="MANAGE_IGNORE_FILES" value="true" />
   </component>
 </application>

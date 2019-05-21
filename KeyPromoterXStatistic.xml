@@ -33,14 +33,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Strg+C' or 'Strg+Einfg'</ShortCut>
-          <Description>Copy</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy Path">
         <Item>
           <IdeaActionID>CopyPaths</IdeaActionID>
@@ -287,6 +279,14 @@
         <Item>
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <Description>Close All</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Strg+C' or 'Strg+Einfg'</ShortCut>
+          <Description>Copy</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">

@@ -142,7 +142,7 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'Strg+Alt+Umschalt+Einfg'</ShortCut>
           <Description>New Scratch File</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste without Formatting">

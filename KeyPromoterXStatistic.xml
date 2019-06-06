@@ -214,7 +214,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'scratch.php'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Default Layout">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save As...">

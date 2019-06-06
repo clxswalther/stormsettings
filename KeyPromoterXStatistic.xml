@@ -193,6 +193,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'scratch.php'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Rerun 'scratch.php'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Default Layout">
         <Item>
           <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
@@ -207,6 +215,14 @@
           <ShortCut>'Strg+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save As...">
@@ -230,7 +246,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>37</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -367,6 +383,12 @@
         <Item>
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <Description>Start Listening for PHP Debug Connections</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Time Tracking">
+        <Item>
+          <IdeaActionID>ActivateTimeTrackingToolWindow</IdeaActionID>
+          <Description>Time Tracking</Description>
         </Item>
       </Statistic>
     </option>

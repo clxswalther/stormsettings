@@ -241,6 +241,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'scratch.php'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'scratch.php'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Save As...">
         <Item>
           <IdeaActionID>SavaAs</IdeaActionID>

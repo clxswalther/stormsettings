@@ -193,6 +193,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Strg+Umschalt+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recent Changes">
         <Item>
           <IdeaActionID>RecentChanges</IdeaActionID>

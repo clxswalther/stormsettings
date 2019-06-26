@@ -65,6 +65,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Strg+D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare With...">
         <Item>
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Umschalt+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'scratch.php'">

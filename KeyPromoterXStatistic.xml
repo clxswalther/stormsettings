@@ -70,7 +70,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Strg+D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -286,7 +286,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Strg+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>19</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">

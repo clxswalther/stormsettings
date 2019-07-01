@@ -326,7 +326,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">

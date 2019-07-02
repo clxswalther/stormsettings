@@ -16,5 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.php, *.phtml</mask>
+    <mask>*.less</mask>
   </component>
 </application>

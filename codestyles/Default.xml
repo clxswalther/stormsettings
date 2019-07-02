@@ -28,6 +28,7 @@
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
@@ -89,6 +90,9 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="SPACE_BEFORE_METHOD_LBRACE" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />

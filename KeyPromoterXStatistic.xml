@@ -201,14 +201,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Paste">
-        <Item>
-          <IdeaActionID>$Paste</IdeaActionID>
-          <ShortCut>'Strg+V' or 'Umschalt+Einfg'</ShortCut>
-          <Description>Paste</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Paste without Formatting">
         <Item>
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
@@ -459,6 +451,14 @@
         <Item>
           <IdeaActionID>ActivateFileTransferToolWindow</IdeaActionID>
           <Description>File Transfer</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Strg+V' or 'Umschalt+Einfg'</ShortCut>
+          <Description>Paste</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">

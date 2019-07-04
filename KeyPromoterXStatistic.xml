@@ -30,7 +30,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Strg+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -103,14 +103,6 @@
           <ShortCut>'Entf'</ShortCut>
           <Description>Delete</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Delete...">
-        <Item>
-          <IdeaActionID>$Delete</IdeaActionID>
-          <ShortCut>'Entf'</ShortCut>
-          <Description>Delete...</Description>
-          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -445,6 +437,14 @@
         <Item>
           <IdeaActionID>ChangesView.RemoveChangeList</IdeaActionID>
           <Description>Delete Changelist</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Entf'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Transfer">

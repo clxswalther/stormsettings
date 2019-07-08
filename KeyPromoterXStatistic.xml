@@ -294,7 +294,7 @@
           <IdeaActionID>SavaAs</IdeaActionID>
           <ShortCut>'Strg+Umschalt+S'</ShortCut>
           <Description>Save As...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

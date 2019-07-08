@@ -302,7 +302,7 @@
           <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
           <ShortCut>'Strg+Leertaste'</ShortCut>
           <Description>Set Active Changelist</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">

@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'Strg+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Branches...">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Directories">
@@ -398,7 +398,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Umschalt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>30</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
     </option>

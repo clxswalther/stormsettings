@@ -318,7 +318,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Strg+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Reformat File Dialog">

@@ -417,14 +417,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Version Control">
-        <Item>
-          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
-          <ShortCut>'Alt+9' or 'Alt+Umschalt+9'</ShortCut>
-          <Description>Version Control</Description>
-          <Count>44</Count>
-        </Item>
-      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Back">
@@ -501,6 +493,14 @@
         <Item>
           <IdeaActionID>ActivateTimeTrackingToolWindow</IdeaActionID>
           <Description>Time Tracking</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Umschalt+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>45</Count>
         </Item>
       </Statistic>
     </option>

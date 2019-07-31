@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Automatic indent detection" />
     <notification groupId="Upsource" displayType="NONE" />
   </component>
 </application>

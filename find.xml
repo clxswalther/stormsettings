@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php, *.phtml,*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +19,6 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.php, *.phtml</mask>
+    <mask>*.php, *.phtml,*.js</mask>
   </component>
 </application>

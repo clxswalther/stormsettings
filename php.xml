@@ -11,6 +11,7 @@
       <interpreter id="82c689db-74f5-4076-be34-af6e6d3a6151" name="PHP 7.0@CLI.sw16" home="sftp://DATA" debugger_id="php.debugger.XDebug">
         <remote_data WEB_SERVER_CONFIG_ID="25c47edb-41e2-4a11-af5b-7456aa0b620e" WEB_SERVER_CONFIG_NAME="sw16" WEB_SERVER_CREDENTIALS_ID="sftp://swalther@sw16:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/swalther/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
+      <interpreter id="0048a5fd-245d-495a-abf2-2e087f12e54d" name="PHP" home="bash -c &quot;php -f&quot;" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">

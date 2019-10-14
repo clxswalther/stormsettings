@@ -41,7 +41,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$APPLICATION_HOME_DIR$/jbr/bin" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/PHP-Storm/daiber" />
     <option name="MANAGE_IGNORE_FILES" value="true" />
   </component>
 </application>

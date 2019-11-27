@@ -3,13 +3,18 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.6680121" />
+          <option name="SPLITTER_PROPORTION" value="0.8311292" />
         </PlaceSettings>
       </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
+      </entry>
       <entry key="Merge">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />

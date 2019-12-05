@@ -2,10 +2,10 @@
   <component name="MaterialThemeConfig">
     <option name="arrowsStyle" value="Darcula" />
     <option name="allowDataCollection" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="2aa82a" />
     <option name="userId" value="2ee3611c:16ed4f04981:-8000" />
     <option name="version" value="4.10.0" />
   </component>

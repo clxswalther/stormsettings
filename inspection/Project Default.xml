@@ -122,7 +122,7 @@
   <inspection_tool class="ES6ConvertModuleExportToExport" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="ES6ConvertRequireIntoImport" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="ES6ConvertToForOf" enabled="true" level="INFORMATION" enabled_by_default="true" />
-  <inspection_tool class="ES6ConvertVarToLetConst" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6DestructuringVariablesMerge" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6MissingAwait" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="ES6ModulesDependencies" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -411,6 +411,7 @@
   <inspection_tool class="MsOrderByInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MssqlBuiltinInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MssqlTriggerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MysqlLoadDataPathInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MysqlParsingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NegatedConditionalExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NegatedIfStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -703,6 +704,9 @@
   <inspection_tool class="SqlInsertNullIntoNotNullInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlInsertValuesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SqlJoinWithoutOnInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SqlMisleadingReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlMissingColumnAliasesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlMissingReturnInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SqlMultipleLimitClausesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlNamedArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlNoDataSourceInspection" enabled="true" level="WARNING" enabled_by_default="true" />

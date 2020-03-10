@@ -18,6 +18,16 @@
         </DecorationPartConfig>
       </list>
     </option>
+    <option name="extrasConfig">
+      <ExtrasConfig>
+        <option name="autoFetchEnabledOverride">
+          <BoolConfigOverride>
+            <option name="enabled" value="true" />
+            <option name="value" value="true" />
+          </BoolConfigOverride>
+        </option>
+      </ExtrasConfig>
+    </option>
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>

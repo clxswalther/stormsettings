@@ -14,9 +14,9 @@
     <mask>*.json</mask>
     <mask>*.php, *.phtml,*.js</mask>
     <mask>*.php, *.phtml</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.js</mask>
   </component>
 </application>

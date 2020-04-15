@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="fileStatusColorsEnabled" value="false" />
@@ -12,7 +13,8 @@
     <option name="upperCaseButtons" value="false" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="2aa82a" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="2ee3611c:16ed4f04981:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.1.0" />
   </component>
 </application>

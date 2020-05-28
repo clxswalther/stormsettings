@@ -3,7 +3,7 @@
     <configs>
       <sshConfig authType="OPEN_SSH" host="sw18" id="3ce45818-58b2-431d-9edf-d0a26d266a00" port="22" customName="sw18" nameFormat="CUSTOM" username="swalther" />
       <sshConfig authType="OPEN_SSH" host="sw16" id="92c367aa-08b2-4ff8-9a1b-f96bb387822a" port="22" customName="sw16" nameFormat="CUSTOM" username="swalther" />
-      <sshConfig authType="OPEN_SSH" host="sw16" id="f9ad1af4-8032-4e55-b8f4-f8add3829cb5" port="22" customName="sw16" nameFormat="CUSTOM" username="swalther" />
+      <sshConfig authType="OPEN_SSH" host="sw16" id="b570b023-bd27-4832-99da-8a4dc1cba560" port="22" customName="sw16" nameFormat="CUSTOM" username="swalther" />
     </configs>
   </component>
 </application>

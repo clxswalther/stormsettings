@@ -3,7 +3,6 @@
     <option name="customScope" value="FARE" />
     <option name="defaultScopeName" value="FARE" />
     <option name="SEARCH_SCOPE" value="FARE" />
-    <option name="FILE_MASK" value="*.php,*.phtml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

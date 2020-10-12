@@ -13,6 +13,11 @@
           <stepping-filters-enabled>false</stepping-filters-enabled>
         </configuration>
       </debugger>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>

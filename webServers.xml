@@ -6,8 +6,8 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="2aec8072-49e7-4530-986e-903ee9790bc5" name="sw18" url="http://sw18">
-        <fileTransfer rootFolder="/cluster/www/www/www" accessType="SFTP" host="sw16" port="22" sshConfigId="92c367aa-08b2-4ff8-9a1b-f96bb387822a" sshConfig="sw16" authAgent="true">
+      <webServer id="2aec8072-49e7-4530-986e-903ee9790bc5" name="sw18" url="http://console.sw18/">
+        <fileTransfer rootFolder="/cluster/www/www/www/" accessType="SFTP" host="sw18" port="22" sshConfigId="3ce45818-58b2-431d-9edf-d0a26d266a00" sshConfig="sw18" authAgent="true">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
